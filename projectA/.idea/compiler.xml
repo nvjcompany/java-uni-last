@@ -12,5 +12,8 @@
         <module name="projectD" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="WeatherApplication-IBD-5" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
